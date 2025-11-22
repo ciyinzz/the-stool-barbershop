@@ -1,5 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo-modified.png";
 import DarkModeToggle from "./DarkModeToggle";
 
 export default function Navbar() {
